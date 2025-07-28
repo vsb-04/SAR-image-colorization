@@ -1,6 +1,8 @@
 # SAR‑Image‑Colorization
 
-![Project Banner](Screenshot 2025-07-28 130125.png)
+<img width="1021" height="508" alt="Screenshot 2025-07-28 130125" src="https://github.com/user-attachments/assets/0a383c20-7a3a-4fab-a515-5d5236097f01" />
+
+
 
 **SAR‑Image‑Colorization** is a deep learning-based framework for turning Synthetic Aperture Radar (SAR) images from grayscale into intuitive, colorized visualizations using a conditional GAN (pix2pix) setup. By learning from paired SAR and optical imagery, the model enhances interpretability of SAR data for remote sensing and geospatial analysis.
 
